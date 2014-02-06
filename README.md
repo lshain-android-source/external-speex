@@ -1,0 +1,4 @@
+external-speex
+==============
+
+external-speex
